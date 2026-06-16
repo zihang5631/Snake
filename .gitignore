@@ -1,5 +1,2 @@
-.idea/
-out/
-*.class
-*.iml
+/.vscode
 *.class
